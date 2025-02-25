@@ -8,7 +8,7 @@ Contribute to an Open Source Repo
 1/ [https://github.com/barrycumbie/turbo-potato-sobie-profile/issues/29](https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/46)
 <br>
 Contribute as a Collaborator
-2/ https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/108
+2/ [https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/108](https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/108)
 <br>
 3/ Code Review
 <br>
