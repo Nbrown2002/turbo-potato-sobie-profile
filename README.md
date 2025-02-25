@@ -12,7 +12,7 @@ Contribute as a Collaborator
 <br>
 3/ Code Review
 <br>
-https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/88
+[https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/88](https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/88#discussion_r1970562554)
 
 
 
